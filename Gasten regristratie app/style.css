@@ -1,0 +1,14 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+.logo{
+    height: 130px;
+}
+
+.loginbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

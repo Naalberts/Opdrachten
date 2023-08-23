@@ -1,0 +1,11 @@
+body {
+    background-image: url(247286_lsr_2018091339190730532.jpg);
+}
+
+.row-m{
+    padding-bottom: 20vw;
+}
+
+.scroll-lock {
+    position: fixed;
+}

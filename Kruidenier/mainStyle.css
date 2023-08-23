@@ -1,0 +1,46 @@
+body {
+    background-color: #bde902;
+}
+
+.L {
+    margin-top: 10vw;
+}
+
+.Mar {
+    margin-top: 15vw;
+}
+
+.imgMar {
+    width: 10vw;
+    height: 5vw;
+}
+
+.searchMar {
+    margin-top: 2vw;
+}
+
+.kassa {
+    display: flex;
+    flex-direction: row;
+}
+
+.informatie {
+    width: 50vw;
+    height: 79vh;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.totaalverkocht {
+    width: 40vw;
+    height: 60vh;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.aantalkosten {
+    width: 40vw;
+    height: 13vh;
+    margin-top: 50px;
+    margin-left: 50px;
+}
